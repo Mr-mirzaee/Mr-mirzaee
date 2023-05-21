@@ -4,7 +4,7 @@
 
 
 ## 💎 Love Languages
-[![My Skills](https://skillicons.dev/icons?i=php,cpp,python,go,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,cpp,go,rust)](https://skillicons.dev)
 
 ## ⚡ Love Frameworks
 [![My Skills](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev)
